@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35707.178 d17.12
+VisualStudioVersion = 17.12.35707.178
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OopSmartPointerProject", "OopSmartPointerProject\OopSmartPointerProject.vcxproj", "{F11229FE-9BF8-4C29-899F-A8631670BC72}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OopVectorCopyMoveProject", "OopVectorCopyMoveProject\OopVectorCopyMoveProject.vcxproj", "{FB52DF2B-5567-4CEC-BEDF-E2C17C55076F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,14 @@ Global
 		{F11229FE-9BF8-4C29-899F-A8631670BC72}.Release|x64.Build.0 = Release|x64
 		{F11229FE-9BF8-4C29-899F-A8631670BC72}.Release|x86.ActiveCfg = Release|Win32
 		{F11229FE-9BF8-4C29-899F-A8631670BC72}.Release|x86.Build.0 = Release|Win32
+		{FB52DF2B-5567-4CEC-BEDF-E2C17C55076F}.Debug|x64.ActiveCfg = Debug|x64
+		{FB52DF2B-5567-4CEC-BEDF-E2C17C55076F}.Debug|x64.Build.0 = Debug|x64
+		{FB52DF2B-5567-4CEC-BEDF-E2C17C55076F}.Debug|x86.ActiveCfg = Debug|Win32
+		{FB52DF2B-5567-4CEC-BEDF-E2C17C55076F}.Debug|x86.Build.0 = Debug|Win32
+		{FB52DF2B-5567-4CEC-BEDF-E2C17C55076F}.Release|x64.ActiveCfg = Release|x64
+		{FB52DF2B-5567-4CEC-BEDF-E2C17C55076F}.Release|x64.Build.0 = Release|x64
+		{FB52DF2B-5567-4CEC-BEDF-E2C17C55076F}.Release|x86.ActiveCfg = Release|Win32
+		{FB52DF2B-5567-4CEC-BEDF-E2C17C55076F}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
